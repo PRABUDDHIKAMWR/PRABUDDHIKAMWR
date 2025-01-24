@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabuddhikamwr" alt="prabuddhikamwr" /></a> </p>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ2azJqd3MwNnhlaG9zc2pxeW01b2pnbDdjbjUzbHN0cDEyZW5iMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6NaTTkaqWS6RoV3qt/giphy.gif" width="360px"/>
-- 👯 I’m looking to collaborate on **IoT, Telecommunication, Software Engineering projects.**
+- 👯 I’m looking to collaborate on  IoT, Telecommunication, and Software Engineering projects.
 
 - 📫 How to reach me **ruwaniprabuddhika@gmail.com**
 
