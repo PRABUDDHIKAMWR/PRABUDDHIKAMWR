@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ruwani Prabuddhika</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0078D7&lines=Welcome+to+my+GitHub+Profile!;I+am+an+IoT+and+Telecommunication+Enthusiast!;Let%27s+Collaborate+on+Amazing+Projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0078D7&lines=Welcome+to+my+GitHub+Profile!;I+am+Machine Learning, Artificial Inteligent and Telecommunication+Enthusiast!;Let%27s+Collaborate+on+Amazing+Projects!" />
 </p>
 
 <h3 align="center">An undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa.</h3>
